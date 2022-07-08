@@ -1549,3 +1549,5 @@
 
   return Gallery
 })
+
+export default {}
